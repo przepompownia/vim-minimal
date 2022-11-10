@@ -1,4 +1,4 @@
-.PHONY: gitconfig-include-local
+.PHONY: gitconfig-include-local submodule-update start check-requirements
 MAKEFLAGS += --no-builtin-rules
 MAKEFLAGS += --no-builtin-variables
 SHELL := /bin/bash
